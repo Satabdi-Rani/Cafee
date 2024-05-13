@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456789",
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Secret Garden",
+      "author": "Mary Smith",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-05-13",
+      "reading_time":15,
+      "hashtags": ["fiction", "classics", "nature"]
+    },
+    {
+      "id": "987654321",
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Space Odyssey",
+      "author": "John Doe",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-05-12",
+      "reading_time": 10,
+      "hashtags": ["science-fiction", "adventure", "space"]
+    },
+    {
+      "id": "246813579",
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Lost Kingdom",
+      "author": "Jane Johnson",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-05-11",
+      "reading_time": 6,
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": "135792468",
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Mystery Mansion",
+      "author": "Tom Thompson",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-05-10",
+      "reading_time": 5,
+      "hashtags": ["mystery", "thriller", "detective"]
+    },
+    {
+      "id": "567891234",
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Legends of the Sea",
+      "author": "Sarah Johnson",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-05-09",
+      "reading_time": 12,
+      "hashtags": ["adventure", "ocean", "mythology"]
+    }
+  ]
+  
